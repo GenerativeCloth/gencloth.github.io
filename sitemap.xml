@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/posts/hello-world/</loc>
+    <loc>https://gencloth.com/posts/hello-world/</loc>
     <lastmod>2018-07-17T23:16:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://gencloth.com/posts/my-first-post/</loc>
     <lastmod>2018-07-17T22:42:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/2018/06/12/helloworld/</loc>
+    <loc>https://gencloth.com/blog/2018/06/12/helloworld/</loc>
     <lastmod>2018-06-12T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://gencloth.com/blog/</loc>
     <lastmod>2018-06-12T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://gencloth.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://gencloth.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>https://gencloth.com/faq/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://gencloth.com/</loc>
     <lastmod>2018-07-17T23:16:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://gencloth.com/posts/</loc>
     <lastmod>2018-07-17T23:16:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/starting/</loc>
+    <loc>https://gencloth.com/categories/starting/</loc>
     <lastmod>2018-06-12T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://gencloth.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/theme/</loc>
+    <loc>https://gencloth.com/tags/theme/</loc>
     <lastmod>2018-06-12T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>

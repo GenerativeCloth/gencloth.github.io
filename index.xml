@@ -2,31 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GenCloth</title>
-    <link>http://gencloth.com/</link>
+    <link>https://example.org/</link>
     <description>Recent content on GenCloth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2018 23:16:54 +0200</lastBuildDate>
     
-	<atom:link href="http://gencloth.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://gencloth.com/posts/hello-world/</link>
+      <link>https://example.org/posts/hello-world/</link>
       <pubDate>Tue, 17 Jul 2018 23:16:54 +0200</pubDate>
       
-      <guid>http://gencloth.com/posts/hello-world/</guid>
+      <guid>https://example.org/posts/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://gencloth.com/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Tue, 17 Jul 2018 22:42:01 +0200</pubDate>
       
-      <guid>http://gencloth.com/posts/my-first-post/</guid>
+      <guid>https://example.org/posts/my-first-post/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World from GenCloth.</title>
+      <link>https://example.org/blog/2018/06/12/helloworld/</link>
+      <pubDate>Tue, 12 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2018/06/12/helloworld/</guid>
+      <description>Hello World, we are GenCloth.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/contact/</guid>
+      <description>We are here to help you Are you curious about something? Please feel free to contact us.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://example.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
   </channel>

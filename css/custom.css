@@ -1,5 +1,12 @@
 /* your styles go here */
 
+body {
+font-family: "Playfair Display";
+}
+p {
+font-family: "Playfair Display";
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;

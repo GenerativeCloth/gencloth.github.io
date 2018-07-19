@@ -1,9 +1,6 @@
 /* your styles go here */
 
-body {
-font-family: "Playfair Display";
-}
-p {
+body, p, a, h1, h2, h3 {
 font-family: "Playfair Display";
 }
 

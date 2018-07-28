@@ -22,3 +22,8 @@ body {
     color: #eb4a04;
     text-decoration: none;
 }
+
+#resimg img {
+  width:100%;
+  max-width: 1000px;
+}

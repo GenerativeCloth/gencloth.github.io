@@ -20,14 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>http://gencloth.com/posts/my-first-post/</link>
-      <pubDate>Tue, 17 Jul 2018 22:42:01 +0200</pubDate>
-      
-      <guid>http://gencloth.com/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

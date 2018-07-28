@@ -12,3 +12,13 @@ font-family: "Playfair Display";
 .box-simple {
   min-height: 230px;
 }
+a {
+  color: #ef402b;
+}
+body {
+  font-size: 16px;
+}
+#headlink:hover {
+    color: #eb4a04;
+    text-decoration: none;
+}

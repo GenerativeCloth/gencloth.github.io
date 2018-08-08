@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GenCloth</title>
-    <link>/</link>
+    <link>http://gencloth.com/</link>
     <description>Recent content on GenCloth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2018 23:16:54 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gencloth.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>http://gencloth.com/posts/hello-world/</link>
       <pubDate>Tue, 17 Jul 2018 23:16:54 +0200</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>http://gencloth.com/posts/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello World.</title>
-      <link>/log/2018/06/12/helloworld/</link>
+      <link>http://gencloth.com/log/2018/06/12/helloworld/</link>
       <pubDate>Tue, 12 Jun 2018 13:50:46 +0200</pubDate>
       
-      <guid>/log/2018/06/12/helloworld/</guid>
+      <guid>http://gencloth.com/log/2018/06/12/helloworld/</guid>
       <description>Hello World, we are GenCloth.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://gencloth.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://gencloth.com/about/</guid>
       <description>GenCloth is a 3D toolkit for the next generation of fashion designers. The toolkit includes a software plugin + tools + databases to actively support customization and rapid local production. These tools aid in designing customized pieces for clientele, speed up production timelines within local micro factories, and aid in the production of durable &amp;amp; sustainable designs that add further value into fashion.
  Globally the fashion industry continues towards further sustainability and a healthier industry cycle, we look to the next generation of designers to help with this mission.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>http://gencloth.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://gencloth.com/contact/</guid>
       <description>We are here to help you Are you curious about something? Please feel free to contact us.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>/faq/</link>
+      <link>http://gencloth.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/</guid>
+      <guid>http://gencloth.com/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Sustainable Development Goals</title>
-      <link>/sdgs/</link>
+      <link>http://gencloth.com/sdgs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sdgs/</guid>
+      <guid>http://gencloth.com/sdgs/</guid>
       <description>GenCloth focuses on contributing to the achievement of six of the United Nations’s Sustainable Development Goals for 2030.
 
 

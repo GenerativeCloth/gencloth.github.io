@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GenCloth</title>
-    <link>https://gencloth.com/posts/</link>
+    <link>gencloth.com/posts/</link>
     <description>Recent content in Posts on GenCloth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2018 23:16:54 +0200</lastBuildDate>
     
-	<atom:link href="https://gencloth.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="gencloth.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://gencloth.com/posts/hello-world/</link>
+      <link>gencloth.com/posts/hello-world/</link>
       <pubDate>Tue, 17 Jul 2018 23:16:54 +0200</pubDate>
       
-      <guid>https://gencloth.com/posts/hello-world/</guid>
+      <guid>gencloth.com/posts/hello-world/</guid>
       <description></description>
     </item>
     

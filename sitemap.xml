@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gencloth.com/posts/hello-world/</loc>
+    <loc>gencloth.com/posts/hello-world/</loc>
     <lastmod>2018-07-17T23:16:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gencloth.com/log/2018/06/12/helloworld/</loc>
+    <loc>gencloth.com/log/2018/06/12/helloworld/</loc>
     <lastmod>2018-06-12T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gencloth.com/about/</loc>
+    <loc>gencloth.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://gencloth.com/categories/</loc>
+    <loc>gencloth.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gencloth.com/contact/</loc>
+    <loc>gencloth.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://gencloth.com/faq/</loc>
+    <loc>gencloth.com/faq/</loc>
   </url>
   
   <url>
-    <loc>https://gencloth.com/</loc>
-    <lastmod>2018-07-17T23:16:54+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gencloth.com/categories/hello/</loc>
-    <lastmod>2018-06-12T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gencloth.com/log/</loc>
-    <lastmod>2018-06-12T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gencloth.com/posts/</loc>
+    <loc>gencloth.com/</loc>
     <lastmod>2018-07-17T23:16:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gencloth.com/sdgs/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gencloth.com/tags/</loc>
+    <loc>gencloth.com/categories/hello/</loc>
+    <lastmod>2018-06-12T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gencloth.com/tags/theme/</loc>
+    <loc>gencloth.com/log/</loc>
+    <lastmod>2018-06-12T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>gencloth.com/posts/</loc>
+    <lastmod>2018-07-17T23:16:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>gencloth.com/sdgs/</loc>
+  </url>
+  
+  <url>
+    <loc>gencloth.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>gencloth.com/tags/theme/</loc>
     <lastmod>2018-06-12T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>

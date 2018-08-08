@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GenCloth</title>
-    <link>gencloth.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on GenCloth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="gencloth.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>gencloth.com/categories/hello/</link>
+      <link>/categories/hello/</link>
       <pubDate>Tue, 12 Jun 2018 13:50:46 +0200</pubDate>
       
-      <guid>gencloth.com/categories/hello/</guid>
+      <guid>/categories/hello/</guid>
       <description></description>
     </item>
     

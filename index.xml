@@ -6,18 +6,20 @@
     <description>Recent content on GenCloth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jul 2018 23:16:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 19:27:17 +0200</lastBuildDate>
     
 	<atom:link href="https://gencloth.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://gencloth.com/posts/hello-world/</link>
-      <pubDate>Tue, 17 Jul 2018 23:16:54 +0200</pubDate>
+      <title>Workshop</title>
+      <link>https://gencloth.com/log/2018/10/01/workshop/</link>
+      <pubDate>Mon, 01 Oct 2018 19:27:17 +0200</pubDate>
       
-      <guid>https://gencloth.com/posts/hello-world/</guid>
-      <description></description>
+      <guid>https://gencloth.com/log/2018/10/01/workshop/</guid>
+      <description>You are invited to a 3 day workshop on digital technologies for the future of fashion design.
+Advanced digital technologies allow us to rethink the process of traditional fashion design and pattern drafting. Are you interested in envisioning how we will design and consume fashion in 2030?
+Elizabeth Bigger, a wearable technology expert with extensive experience in draping and patterning, and Luis Fraguada, a programmer and designer, have developed the GenCloth toolkit of software tools and databases for the future of fashion design.</description>
     </item>
     
     <item>
